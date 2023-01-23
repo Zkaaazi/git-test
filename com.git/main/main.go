@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("Hot-fix Test4 !")
 	fmt.Println("ssh Test !")
 	fmt.Println("pull Test !")
+	fmt.Println("clone Test !")
 }
