@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("Git Test4 !")
 	fmt.Println("Master Test4 !")
 	fmt.Println("Hot-fix Test4 !")
+	fmt.Println("ssh Test !")
 }
